@@ -6,7 +6,7 @@ This is simple react app using [OpenWeatherMap API](https://openweathermap.org/a
 ## Instructions
 First clone this repository
 
-` $ https://github.com/himanshu03jain/Weather-App.git`
+` $ https://github.com/himanshu03jain/Weather.git`
 
 Install Dependencies and make sure you already have [nodejs](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) installed in your system
 
